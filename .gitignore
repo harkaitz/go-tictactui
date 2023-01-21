@@ -1,1 +1,5 @@
 bin/tictactoe
+## -- GO --
+bin/tictactoe
+bin/tictactoe.*
+## -- GO --
