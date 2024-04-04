@@ -1,5 +1,6 @@
-bin/tictactoe
-## -- GO --
-bin/tictactoe
-bin/tictactoe.*
-## -- GO --
+## -- BLOCK:go --
+build/*
+releases/*
+## -- BLOCK:go --
+## -- BLOCK:license --
+## -- BLOCK:license --
